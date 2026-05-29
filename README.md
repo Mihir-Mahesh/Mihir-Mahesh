@@ -1,6 +1,6 @@
 # Hi there, I'm Mihir <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a **Computer Science & Math** student at the University of Maryland with an interest in **Artificial Intelligence**, **Cybersecurity**, and **Low-Level Concepts**.
+I'm a **Computer Science & Math** student at the University of Maryland with an interest in **Computer Architecture** and *Operating Systems**.
 
 ---
 
@@ -14,9 +14,9 @@ I'm a **Computer Science & Math** student at the University of Maryland with an 
 
 ### 🚀 What I'm Up To
 
-* 🎓 Studying Computer Science & Mathematics at the **University of Maryland**.
-* 💻 Diving deep into **AI/ML** and **Cybersecurity** concepts.
-* 🤝 Looking to collaborate on  projects in the AI or security space.
+* 🎓 Studying Computer Science & Mathematics with a minor in Cybersecurity at the **University of Maryland**.
+* 💻 Doing research in OS for Quantum Computers and Domain Specific Architecture
+* 🤝 Looking to collaborate on  projects
 
 ---
 
