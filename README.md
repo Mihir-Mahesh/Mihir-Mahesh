@@ -1,6 +1,6 @@
 # Hi there, I'm Mihir <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a **Computer Science & Math** student at the University of Maryland with an interest in **Computer Architecture** and *Operating Systems**.
+I'm a **Computer Science & Math** student at the University of Maryland with an interest in **Computer Architecture** and **Operating Systems**.
 
 ---
 
