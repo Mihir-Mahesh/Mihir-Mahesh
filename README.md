@@ -15,8 +15,7 @@ I'm a **Computer Science & Math** student at the University of Maryland with an 
 ### 🚀 What I'm Up To
 
 * 🎓 Studying Computer Science & Mathematics with a minor in Cybersecurity at the **University of Maryland**.
-* 💻 Doing research in OS for Quantum Computers and Domain Specific Architecture
-* 🤝 Looking to collaborate on  projects
+* 💻 Doing research in OS for Quantum Computers and Computer Architecture
 
 ---
 
